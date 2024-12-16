@@ -20,3 +20,6 @@ Breakout Game is an interactive web-based game built using HTML, CSS, and JavaSc
 3. Use mouse movement to control the paddle and enjoy the game!  
 
 This project showcases core web development techniques and game mechanics programming using HTML, CSS, and JavaScript.  
+
+
+<img width="907" alt="Screenshot 2024-12-12 at 3 42 15 PM" src="https://github.com/user-attachments/assets/842b519f-7654-430d-b7d0-b12e1fffc38c" />
